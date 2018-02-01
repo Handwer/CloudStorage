@@ -1,1 +1,5 @@
-# CloudStorage
+论如何把GitHub当网盘用
+## 用途
+都说了是网盘啦
+## 原因
+GitHub有较大的空间，较快的速度，并且不像~~pan.baidu.com~~国内某些网盘一样**毒瘤**
